@@ -5,7 +5,7 @@
     <classes>
       <class name="codenboxautomationlabPractice.Tests">
         <methods>
-          <include name="Switch_To_Alert_Example"/>
+          <include name="iFrame_Example"/>
           <include name="SetUp"/>
           <include name="AfterFinishedTheTest"/>
         </methods>
